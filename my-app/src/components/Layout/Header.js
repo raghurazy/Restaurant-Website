@@ -6,7 +6,6 @@ import HeaderCartButton from './HeaderCartButton'
 
 const Header = props => {
     return (<Fragment>
-        <button>Cart</button>
         <header className={classes.header}>
             <h1>React Meal</h1>
             <HeaderCartButton/>
