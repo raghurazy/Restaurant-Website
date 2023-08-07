@@ -1,6 +1,6 @@
 import React from "react";
 import HeaderCartButton from "./HeaderCartButton";
-import MealsImage from'../../assets/meals.jpg';
+import MealsImage from'../../Assets/meals.jpg';
 import classes from './Header.module.css';
 
 
